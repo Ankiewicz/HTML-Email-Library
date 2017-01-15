@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # HTML-Email-Template
 ## ALL EMAILS MUST BE INLINED PRIOR PUSHING TO PRODUCTION
 If you do not inline the email it will not render properly in email clients upon sending.
