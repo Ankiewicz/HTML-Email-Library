@@ -1,0 +1,114 @@
+<snippet>
+	<content><![CDATA[
+                      <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+                        <tr>
+                          <td align="center" valign="top" id="scaffoldingCell">
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+                              <tr>
+                                <td align="center" valign="top">
+                                  <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                                  <table align="center" id="fixedFlexibleTable" width="580" id="fixedFlexibleTable" border="0" cellspacing="0" cellpadding="0" style="min-width:580px;">
+                                    <tr>
+                                      <td height="35"></td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <!--left-->
+                                        <table class=" card" bgcolor="#ffffff" id="fixedFlexibleTable" width="275" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:275px;">
+                                          <tr>
+                                            <td align="center" style="line-height: 0px;">
+                                              <a href="#" title="jpankiewicz.com">
+                                                <img style="color:#333333!important;border:none;" id="fullImageOnMobile" src="http://new.jpankiewicz.com/images/180-image-wireframe.jpg" width="275" alt="Image" />
+                                              </a>
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td height="20"></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey">Card Details</td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey">Second line of details</td>
+                                          </tr>
+                                          <tr>
+                                            <td height="10"></td>
+                                          </tr>
+                                          <!--content-->
+                                          <tr>
+                                            <td align="center" class="textStyleGrey" style="font-size:14px;line-height:16px;">
+                                              <a class="textLink" href="#" title="CTA Title">
+                                                                               View Details
+                                                                              </a>
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td height="15"></td>
+                                          </tr>
+                                          <!--end content-->
+                                        </table>
+                                        <!--end left-->
+                                        <!--Space-->
+                                        <table width="25" border="0" cellpadding="0" cellspacing="0" align="left">
+                                          <tr>
+                                            <td height="35" style="font-size: 0;line-height: 0px;border-collapse: collapse;">
+                                              <p style="">&nbsp;</p>
+                                            </td>
+                                          </tr>
+                                        </table>
+                                        <!--End Space-->
+                                        <!--right-->
+                                        <table class=" card" bgcolor="#ffffff" id="fixedFlexibleTable" width="275" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:275px;">
+                                          <tr>
+                                            <td align="center" style="line-height: 0px;">
+                                              <a href="#" title="jpankiewicz.com">
+                                                <img style="color:#333333!important;" id="fullImageOnMobile" src="http://new.jpankiewicz.com/images/180-image-wireframe.jpg" width="275" alt="Image" />
+                                              </a>
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td height="20"></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey">Card Details</td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey">Second line of details</td>
+                                          </tr>
+                                          <tr>
+                                            <td height="10"></td>
+                                          </tr>
+                                          <!--content-->
+                                          <tr>
+                                            <td align="center" class="textStyleGrey" style="font-size:14px;line-height:16px;">
+                                              <a class="textLink" href="#" title="CTA Title">
+                                                                               View Details
+                                                                              </a>
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td height="15"></td>
+                                          </tr>
+                                          <!--end content-->
+                                        </table>
+                                        <!--end right-->
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="40"></td>
+                                    </tr>
+                                  </table>
+                                  <!-- END SECTION TABLE WITH SECTION AREA -->
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section20</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

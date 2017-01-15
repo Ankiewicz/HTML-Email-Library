@@ -1,0 +1,221 @@
+<snippet>
+	<content><![CDATA[
+<!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+            <tr>
+              <td align="center" valign="top" id="scaffoldingCell">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px">
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                      <table align="center" id="fixedFlexibleTable" width="580" border="0" cellspacing="0" cellpadding="0" style="min-width:580px">
+                        <tr>
+                          <td height="15"></td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <h3 style="font-size:20px;color:#888888;">MSO MAKES BUTTONS CLICKABLE IN OUTLOOK</h3>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="textStyle" style="text-align:center;">
+                            Outlook will drop all padding in links, making only the text clickable. If you use MSO you are placing a element in the email that is clickable and maintains it's size. MSO also helps render background images which will allow you to reach EVERYSINGLE email client, except the new Windows 10. Besure to use background-color when using background images so taht the text on top is still reable and there isn't just an ugly blank section.
+                            <a class="textLink" style="font-size:14px;line-height:16px;" href="#" title="Errrrr">
+                                                                     Outlook is the pain of all email developers exisitances
+                                                                    </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="15"></td>
+                        </tr>
+                        <tr>
+                          <td align="center">
+                            <!--Space-->
+                            <table width="8" border="0" cellpadding="0" cellspacing="0" align="left">
+                              <tr>
+                                <td height="20" style="font-size: 0;line-height: 0px;border-collapse: collapse;">
+                                  <!--  <p style="padding-left: 49px;">&nbsp;</p> -->
+                                </td>
+                              </tr>
+                            </table>
+                            <!--End Space-->
+                            <!--left -->
+                            <table id="fixedFlexibleTable" width="175" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:175px;">
+                              <tr>
+                                <td align="center">
+                                  <img id="fullImageOnMobile" style="display:block; line-height:0px; font-size:0px; border:0px;" src="http://new.jpankiewicz.com/images/180-image-wireframe.jpg" width="175" alt="img" />
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="20"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" class="textStyleDarkGrey">Gif's work</td>
+                              </tr>
+                              <tr>
+                                <td height="10"></td>
+                              </tr>
+                              <!--content-->
+                              <tr>
+                                <td align="center" class="textStyle" style=" font-size:13px;color:#7f8c8d;line-height: 20px;">
+                                  <b>in most email
+                                  <br/>
+                                   Clients
+                                  <br/>
+                                </b> learn to make .gifs
+                                </td>
+                              </tr>
+                              <!--end content-->
+                              <!-- button -->
+                              <tr>
+                                <td id="fixedFlexibleTable" align="center" valign="top" class="textStyleWhite" width="175">
+                                  <!--[if mso]>
+                                      <v:rect
+                                          xmlns:v="urn:schemas-microsoft-com:vml"
+                                          xmlns:w="urn:schemas-microsoft-com:office:word"   stroke="f" href="#" style="height:45px;v-text-anchor:middle;width:175px;text-align:center;text-decoration: none; font-size:16px; font-family:'Roboto', Arial, Helvetica, sans-serif;" fillcolor="#01aaff">
+                                          <w:anchorlock/>
+                                          <center>
+                                           <![endif]-->
+                                    <a id="fixedFlexibleTable" class="textStyleWhite " href="#" style="background-color:#01aaff;color:#ffffff;display:inline-block;text-decoration: none; font-size:16px; font-family:'Roboto', Arial, Helvetica, sans-serif; font-weight: lighter;line-height:42px;text-align:center;width:175px;-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;max-height:42px;min-height:42px;">
+                                      View Details
+                                   </a>
+                                  <!--[if mso]>
+                                        </center>
+                                    </v:rect>
+                                    <![endif]-->
+                                </td>
+                              </tr>
+                              <!-- button -->
+                            </table>
+                            <!--end left-->
+                            <!--Space-->
+                            <table width="14" border="0" cellpadding="0" cellspacing="0" align="left">
+                              <tr>
+                                <td height="35" width="14" style="font-size: 0;line-height: 0px;border-collapse: collapse;"></td>
+                              </tr>
+                            </table>
+                            <!--End Space-->
+                            <!--middle-->
+                            <table id="fixedFlexibleTable" width="175" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:175px;">
+                              <tr>
+                                <td align="center" style="line-height: 0px;">
+                                  <img id="fullImageOnMobile" style="display:block; line-height:0px; font-size:0px; border:0px;" src="http://new.jpankiewicz.com/images/180-image-wireframe.jpg" width="175" alt="img" />
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="20"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" class="textStyleDarkGrey">gif's not working</td>
+                              </tr>
+                              <tr>
+                                <td height="10"></td>
+                              </tr>
+                              <!--content-->
+                              <tr>
+                                <td align="center" class="textStyle" style=" font-size:13px;color:#7f8c8d;line-height: 20px;">
+                                  <b>besure to set
+                                     <br/>
+                                      defaults
+                                     <br/>
+                                   </b> gifs default to the first slide
+                                </td>
+                              </tr>
+                              <!--end content-->
+                              <!-- button -->
+                              <tr>
+                                <td id="fixedFlexibleTable" align="center" valign="top" class="textStyleWhite" width="175">
+                                  <!--[if mso]>
+                                  <v:rect
+                                      xmlns:v="urn:schemas-microsoft-com:vml"
+                                      xmlns:w="urn:schemas-microsoft-com:office:word"   stroke="f" href="#" style="height:45px;v-text-anchor:middle;width:175px;text-align:center;text-decoration: none; font-size:16px; font-family:'Roboto', Arial, Helvetica, sans-serif;" fillcolor="#01aaff">
+                                      <w:anchorlock/>
+                                      <center>
+                                       <![endif]-->
+                                      <a id="fixedFlexibleTable" class="textStyleWhite " href="#" style="background-color:#01aaff;color:#ffffff;display:inline-block;text-decoration: none; font-size:16px; font-family:'Roboto', Arial, Helvetica, sans-serif; font-weight: lighter;line-height:42px;text-align:center;width:175px;-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;max-height:42px;min-height:42px;">
+                                        View Details
+                                     </a>
+                                  <!--[if mso]>
+                                        </center>
+                                    </v:rect>
+                                    <![endif]-->
+                                </td>
+                              </tr>
+                              <!-- button -->
+                            </table>
+                            <!--end middle-->
+                            <!--Space-->
+                            <table width="14" border="0" cellpadding="0" cellspacing="0" align="left">
+                              <tr>
+                                <td height="35" width="14" style="font-size: 0;line-height: 0px;border-collapse: collapse;"></td>
+                              </tr>
+                            </table>
+                            <!--End Space-->
+                            <!--right-->
+                            <table id="fixedFlexibleTable" width="175" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:175px;">
+                              <tr>
+                                <td align="center" style="line-height: 0px;">
+                                  <img id="fullImageOnMobile" style="display:block; line-height:0px; font-size:0px; border:0px;" src="http://new.jpankiewicz.com/images/180-image-wireframe.jpg" width="175" alt="img" />
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="20"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" class="textStyleDarkGrey">Videos work</td>
+                              </tr>
+                              <tr>
+                                <td height="10"></td>
+                              </tr>
+                              <!--content-->
+                              <tr>
+                                <td align="center" class="textStyle" style=" font-size:13px;color:#7f8c8d;line-height: 20px;">
+                                  <b>in far less clients
+                                   <br/>
+                                    but
+                                   <br/>
+                                 </b> in all apple products
+                                </td>
+                              </tr>
+                              <!--end content-->
+                              <!-- button -->
+                              <tr>
+                                <td id="fixedFlexibleTable" align="center" valign="top" class="textStyleWhite" width="175">
+                                  <!--[if mso]>
+                                      <v:rect
+                                          xmlns:v="urn:schemas-microsoft-com:vml"
+                                          xmlns:w="urn:schemas-microsoft-com:office:word"   stroke="f" href="#" style="height:45px;v-text-anchor:middle;width:175px;text-align:center;text-decoration: none; font-size:16px; font-family:'Roboto', Arial, Helvetica, sans-serif;" fillcolor="#01aaff">
+                                          <w:anchorlock/>
+                                          <center>
+                                           <![endif]-->
+                                    <a id="fixedFlexibleTable" class="textStyleWhite " href="#" style="background-color:#01aaff;color:#ffffff;display:inline-block;text-decoration: none; font-size:16px; font-family:'Roboto', Arial, Helvetica, sans-serif; font-weight: lighter;line-height:42px;text-align:center;width:175px;-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;max-height:42px;min-height:42px;">
+                                          View Details
+                                         </a>
+                                  <!--[if mso]>
+                                      </center>
+                                  </v:rect>
+                                  <![endif]-->
+                                </td>
+                              </tr>
+                              <!-- button -->
+                            </table>
+                            <!--end right-->
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="40"></td>
+                        </tr>
+                      </table>
+                      <!-- END SECTION TABLE WITH SECTION AREA -->
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section8</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

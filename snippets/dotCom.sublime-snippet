@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+	<a class="textStyle" href="${1:jpankiewicz.com}" style="font-size:16px;line-height:22px;">${2:link URL}</a>
+]]></content>
+<tabTrigger>dotCom</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

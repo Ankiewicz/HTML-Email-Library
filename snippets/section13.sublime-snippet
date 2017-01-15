@@ -1,0 +1,188 @@
+<snippet>
+	<content><![CDATA[
+            <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+            <tr>
+              <td align="center" valign="top" id="scaffoldingCell">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                      <table align="center" id="fixedFlexibleTable" width="560" border="0" cellspacing="0" cellpadding="0" style="min-width:560px;">
+                        <tr>
+                          <td align="left" class="textStyle" height="50">
+                            Dear Reader or developer,
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="left" class="textStyle">
+                            Thank you for reading all of this, i hope my template will help everyone. In this same git repo will be a folder of snippets. These are a beautiful and powerful tool for development. I created my template, broke it down into short hand snippets. I took my email building from 2 days of building and testing to an average of 2 hours of building and testing.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="30"></td>
+                        </tr>
+                        <tr>
+                          <td class="textStyle" style="text-align:center;font-size:15px;">BE SURE TO EDUCATE NON DEVELOPERS OF WHY THINGS ARE AS THEY ARE
+                          </td>
+                        </tr>
+                        <td height="30"></td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <!--left-->
+                      <table id="fixedFlexibleTable" width="141" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:141px;">
+                        <tr>
+                          <td height="20"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="line-height: 0px;">
+                            <img width="70" height="70" src="http://www.new.jpankiewicz.com/images/digitalImagingIcon.png" alt="" style=" width: 70px;  height: 70px;" />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="20"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="textStyleDarkGrey" style="font-size:14px;padding:0 10px;">Emails don't render like the web, they may expect other results</td>
+                        </tr>
+                        <!--content-->
+                        <tr>
+                          <td align="center" class="textStyleGrey" style="font-size:14px;line-height:16px;">
+                            <a class="textLink" href="#" title="CTA Title"> Learn More</a>
+                          </td>
+                        </tr>
+                        <!--end content-->
+                      </table>
+                      <!--end left-->
+                      <!--Space-->
+                      <table id="remove" width="2" border="0" height="230" cellpadding="0" cellspacing="0" align="left" style="border-left:1px solid #999999;min-height:230px;height:230px;">
+                        <tr>
+                          <td style="font-size: 0;line-height: 0px;border-collapse: collapse;min-height:230px;height:230px;"></td>
+                        </tr>
+                      </table>
+                      <!--End Space-->
+                      <!--middle - left -->
+                      <table id="fixedFlexibleTable" width="165" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:165px;">
+                        <tr>
+                          <td height="20"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="line-height: 0px;">
+                            <img width="70" height="70" src="http://www.new.jpankiewicz.com/images/behance-icon.png" alt="" style=" width: 70px;  height: 70px;" />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="20"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="textStyleDarkGrey" style="font-size:14px;padding:0 10px;">You will battle repeatly</td>
+                        </tr>
+                        <!--content-->
+                        <tr>
+                          <td align="center" class="textStyleGrey" style="font-size:14px;padding:0 10px;">
+                          People will take you at your word if you can give them a definition of why things are</td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="textStyleGrey" style="font-size:14px;line-height:16px;">
+                            <a class="textLink" href="#" title="CTA Title"> Learn More</a>
+                          </td>
+                        </tr>
+                        <!--end content-->
+                      </table>
+                      <!--end middle - left-->
+                      <!--Space-->
+                      <table id="remove" width="2" border="0" height="230" cellpadding="0" cellspacing="0" align="left" style="border-left:1px solid #999999;min-height:230px;height:230px;">
+                        <tr>
+                          <td style="font-size: 0;line-height: 0px;border-collapse: collapse;min-height:230px;height:230px;"></td>
+                        </tr>
+                      </table>
+                      <!--End Space-->
+                      <!--middle right-->
+                      <table id="fixedFlexibleTable" width="131" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:131px;">
+                        <tr>
+                          <td height="20"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="line-height: 0px;">
+                            <img width="70" height="70" src="http://www.new.jpankiewicz.com/images/1.png" alt="" style=" width: 70px;  height: 70px;" />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="20"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="textStyleDarkGrey">During your search of Why</td>
+                        </tr>
+                        <!--content-->
+                        <tr>
+                          <td align="center" class="textStyleGrey" style="font-size:14px;line-height:16px;">When you find the reason why, you will most likely find the fix or work around that goes with it</td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="textStyleGrey" style="font-size:14px;line-height:16px;">
+                            <a class="textLink" href="#" title="CTA Title"> Download Now</a>
+                          </td>
+                        </tr>
+                        <!--end content-->
+                      </table>
+                      <!--end middle - right-->
+                      <!--Space-->
+                      <table id="remove" width="2" border="0" height="230" cellpadding="0" cellspacing="0" align="left" style="border-left:1px solid #999999;min-height:230px;height:230px;">
+                        <tr>
+                          <td style="font-size: 0;line-height: 0px;border-collapse: collapse;min-height:230px;height:230px;"></td>
+                        </tr>
+                      </table>
+                      <!--End Space-->
+                      <!--right-->
+                      <table id="fixedFlexibleTable" width="101" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:101px;">
+                        <tr>
+                          <td height="20"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="line-height: 0px;">
+                            <img width="70" height="70" src="http://www.new.jpankiewicz.com/images/2.png" alt="" style=" width: 70px;  height: 70px;" />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="20"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="textStyleDarkGrey" style="font-size:14px;line-height:16px;">It makes you the go to </td>
+                        </tr>
+                        <!--content-->
+                        <tr>
+                          <td align="center" class="textStyleGrey" style="font-size:14px;line-height:16px;">
+                            <a class="textLink" href="tel:800-793-6107" title=""> 800-793-6107 be sure to use the tel: tag, for better mobile experience</a>
+                          </td>
+                        </tr>
+                        <!--end content-->
+                      </table>
+                      <!--end right-->
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="40"></td>
+                  </tr>
+                  <tr>
+                    <td align="left" class="textStyle">
+                      Thank you,
+                      <br/> The jpankiewicz.com Team
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="20"></td>
+                  </tr>
+                  </table>
+                  <!-- END SECTION TABLE WITH SECTION AREA -->
+                  </td>
+            </tr>
+            </table>
+            </td>
+      </tr>
+      <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section13</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

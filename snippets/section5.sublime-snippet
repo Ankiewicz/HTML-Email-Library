@@ -1,0 +1,133 @@
+<snippet>
+	<content><![CDATA[
+            <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+            <tr>
+              <td align="center" valign="top" id="scaffoldingCell">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="max-width:600px;">
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                      <table width="600" bgcolor="#fff" height="185" border="0" align="center" id="fixedFlexibleTable" cellspacing="0" background="http://new.jpankiewicz.com/images/600-image-wireframe.jpg" cellpadding="0" style="background-image:url('http://new.jpankiewicz.com/images/600-image-wireframe.jpg');background:url('http://new.jpankiewicz.com/images/600-image-wireframe.jpg');background-size:100% 100%!important;background-repeat: no-repeat;min-width:600px;background-color:#777777;"
+                          class="newPicTop">
+                        <tr>
+                          <td width="600" height="185" valign="top" align="center" id="fixedFlexibleTable" style=" min-width:600px;">
+                            <!--[if gte mso 9]>
+                                <v:rect
+                                    xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:180px; background-repeat:no-repeat; background-position:  center;">
+                                    <v:fill type="tile" src="http://new.jpankiewicz.com/images/600-image-wireframe.jpg"  />
+                                    <v:textbox inset="0,0,0,0" style="color:#ffffff;">
+                                    <![endif]-->
+                            <table width="600" border="0" id="fixedFlexibleTable" align="center" cellpadding="0" cellspacing="0" style="min-width:600px;">
+                              <tr>
+                                <td height="20"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" width="100%" style="font-family: avenir,'Century Gothic', Arial, sans-serif; color:#FFFFFF; font-size:30px;font-weight: 400;">
+                                ICONS ON TOP OF A BG<br/> THAT REALIGN ON MOBILE
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="20"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" id="iconCenterFix">
+                                  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="iconCenterFix">
+                                    <tr>
+                                      <td align="left" id="displayimageicon">
+                                        <!-- This is the section split of the tables -->
+                                        <table width="33%" border="0" align="left" cellpadding="0" cellspacing="0" id="fixedFlexibleTable" id="icontable">
+                                          <tr>
+                                            <td align="left">
+                                              <a href="">
+                                                <img style="color:#333333!important;" style="float:left; line-height:0px; font-size:0px; border:0px;" class="state-image-mobile" src="http://www.new.jpankiewicz.com/images/1.png" alt="icon" width="65" height="63" />
+                                              </a>
+                                            </td>
+                                            <td align="left">
+                                              <a href="">
+                                                <img style="color:#333333!important;" style="float:left; line-height:0px; font-size:0px; border:0px;" class="state-image-mobile" src="http://www.new.jpankiewicz.com/images/1.png" alt="icon" width="65" height="63" />
+                                              </a>
+                                            </td>
+                                            <td align="left">
+                                              <a href="">
+                                                <img style="color:#333333!important;" style="float:left; line-height:0px; font-size:0px; border:0px;" class="state-image-mobile" src="http://www.new.jpankiewicz.com/images/1.png" alt="icon" width="65" height="63" />
+                                              </a>
+                                            </td>
+                                          </tr>
+                                        </table>
+                                        <!-- This is the section split of the tables -->
+                                      </td>
+                                      <td align="left" id="displayimageicon">
+                                        <!-- This is the section split of the tables -->
+                                        <table width="33%" border="0" align="left" cellpadding="0" cellspacing="0" id="fixedFlexibleTable" id="icontable">
+                                          <tr>
+                                            <td align="left">
+                                              <a href="">
+                                                <img style="color:#333333!important;" style="float:left; line-height:0px; font-size:0px; border:0px;" class="state-image-mobile" src="http://www.new.jpankiewicz.com/images/ankiewicz_logo.png" alt="icon" width="65" height="63" />
+                                              </a>
+                                            </td>
+                                            <td align="left" class="iconadjustForMedia">
+                                              <a href="">
+                                                <img style="color:#333333!important;" style="float:left; line-height:0px; font-size:0px; border:0px;" class="state-image-mobile" src="http://www.new.jpankiewicz.com/images/ankiewicz_logo.png" alt="icon" width="65" height="63" />
+                                              </a>
+                                            </td>
+                                            <td align="left" class="iconadjustForMedia">
+                                              <a href="">
+                                                <img style="color:#333333!important;" style="float:left; line-height:0px; font-size:0px; border:0px;" class="state-image-mobile" src="http://www.new.jpankiewicz.com/images/ankiewicz_logo.png" alt="icon" width="65" height="63" />
+                                              </a>
+                                            </td>
+                                          </tr>
+                                        </table>
+                                        <!-- seperation in the icons -->
+                                      </td>
+                                      <td align="left" id="displayimageicon">
+                                        <!-- seperation in the icons -->
+                                        <table width="33%" border="0" align="left" cellpadding="0" cellspacing="0" id="fixedFlexibleTable" id="icontable">
+                                          <tr>
+                                            <td align="left" class="iconadjustForMedia">
+                                              <a href="">
+                                                <img style="color:#333333!important;" style="float:left; line-height:0px; font-size:0px; border:0px;" class="state-image-mobile" src="http://www.new.jpankiewicz.com/images/3.png" alt="icon" width="65" height="63" />
+                                              </a>
+                                            </td>
+                                            <td align="left" class="iconadjustForMedia">
+                                              <a href="">
+                                                <img style="color:#333333!important;" style="float:left; line-height:0px; font-size:0px; border:0px;" class="state-image-mobile" src="http://www.new.jpankiewicz.com/images/3.png" alt="icon" width="65" height="63" />
+                                              </a>
+                                            </td>
+                                            <td align="left" class="iconadjustForMedia">
+                                              <a href="">
+                                                <img style="color:#333333!important;" style="float:left; line-height:0px; font-size:0px; border:0px;" class="state-image-mobile" src="http://www.new.jpankiewicz.com/images/3.png" alt="icon" width="65" height="63" />
+                                              </a>
+                                            </td>
+                                          </tr>
+                                        </table>
+                                        <!-- this is the end of the table split area -->
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="20"></td>
+                              </tr>
+                            </table>
+                            <!--[if gte mso 9]>
+                                </v:textbox>
+                            </v:rect>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                      <!-- END SECTION TABLE WITH SECTION AREA -->
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+	<tabTrigger>section5</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,133 @@
+<snippet>
+	<content><![CDATA[
+        <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+            <tr>
+              <td align="center" valign="top" id="scaffoldingCell">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                      <table align="center" id="fixedFlexibleTable" width="580" border="0" cellspacing="0" cellpadding="0" style="min-width:580px;">
+                        <tr>
+                          <td height="15"></td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <h3 style="font-size:20px;color:#888888;">DO NOT EVER FORWARD HTML EMAILS</h3>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="20"></td>
+                        </tr>
+                        <tr>
+                          <td align="center">
+                            <!--Space-->
+                            <table width="5" border="0" cellpadding="0" cellspacing="0" align="left">
+                              <tr>
+                                <td height="35" width="14" style="font-size: 0;line-height: 0px;border-collapse: collapse;"></td>
+                              </tr>
+                            </table>
+                            <!--End Space-->
+                            <!--left-->
+                            <table id="fixedFlexibleTable" width="175" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:175px;">
+                              <tr>
+                                <td height="150" align="center" style="line-height: 0px;">
+                                  <img height="150" style="display:block; line-height:0px; font-size:0px; border:0px;" src="http://www.new.jpankiewicz.com/images/mobileIcon.png" alt="img" />
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="20"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" class="textStyleDarkGrey">Fully Responsive</td>
+                              </tr>
+                              <tr>
+                                <td height="10"></td>
+                              </tr>
+                              <!--content-->
+                              <tr>
+                                <td align="center" class="textStyleGrey" style="font-size:14px;line-height:16px;">This template has 3 main break points. 450px, 360px, 320px wide. Besure to out background images at all of these sizes</td>
+                              </tr>
+                              <!--end content-->
+                            </table>
+                            <!--end left-->
+                            <!--Space-->
+                            <table width="16" border="0" cellpadding="0" cellspacing="0" align="left">
+                              <tr>
+                                <td height="35" width="14" style="font-size: 0;line-height: 0px;border-collapse: collapse;"></td>
+                              </tr>
+                            </table>
+                            <!--End Space-->
+                            <!--middle -->
+                            <table id="fixedFlexibleTable" width="175" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:175px;">
+                              <tr>
+                                <td height="150" align="center" style="line-height: 0px;">
+                                  <img width="150" style="display:block; line-height:0px; font-size:0px; border:0px;" src="http://www.new.jpankiewicz.com/images/slider.png" alt="img" />
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="20"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" class="textStyleDarkGrey">Do NOT forward</td>
+                              </tr>
+                              <tr>
+                                <td height="10"></td>
+                              </tr>
+                              <!--content-->
+                              <tr>
+                                <td align="center" class="textStyleGrey" style="font-size:14px;line-height:16px;">only attach, when you forward email clients will rewrite your email in the style they prefer, breaking your code</td>
+                              </tr>
+                              <!--end content-->
+                            </table>
+                            <!--end middle -->
+                            <!--Space-->
+                            <table width="16" border="0" cellpadding="0" cellspacing="0" align="left">
+                              <tr>
+                                <td height="35" width="14" style="font-size: 0;line-height: 0px;border-collapse: collapse;"></td>
+                              </tr>
+                            </table>
+                            <!--End Space-->
+                            <!--right -->
+                            <table id="fixedFlexibleTable" width="175" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:175px;">
+                              <tr>
+                                <td height="150" align="center" style="line-height: 0px;">
+                                  <img width="150"  style="display:block; line-height:0px; font-size:0px; border:0px;" src="http://www.new.jpankiewicz.com/images/webIcon.png" alt="img" />
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="20"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" class="textStyleDarkGrey">Background Images</td>
+                              </tr>
+                              <tr>
+                                <td height="10"></td>
+                              </tr>
+                              <!--content-->
+                              <tr>
+                                <td align="center" class="textStyleGrey" style="font-size:14px;line-height:16px;">Because of outlook, be sure to output you 600px wide images at 96dpi, this will counter background image rendering issues, minus the 120dpi zoom in 2013</td>
+                              </tr>
+                              <!--end content-->
+                            </table>
+                            <!--end right -->
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="40"></td>
+                        </tr>
+                      </table>
+                      <!-- END SECTION TABLE WITH SECTION AREA -->
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section9</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

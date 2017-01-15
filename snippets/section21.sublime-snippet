@@ -1,0 +1,48 @@
+<snippet>
+	<content><![CDATA[
+                        <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+                        <tr>
+                          <td align="center" valign="top" id="scaffoldingCell">
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+                              <tr>
+                                <td align="center" valign="top">
+                                  <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                                  <table class=" " id="fixedFlexibleTable" width="600" border="0" align="center" cellpadding="0" cellspacing="0" style="min-width:600px;">
+                                    <tr>
+                                      <td height="25"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center" style="line-height: 0px;">
+                                        <a href="#" title="jpankiewicz.com">
+                                          <img style="color:#333333!important;" id="fullImageOnMobile" src="http://www.new.jpankiewicz.com/images/game.jpg" width="450" alt="jpankiewicz.com Mobile App" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="5"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center" class="textStyleDarkGrey" style="font-size:12px;">Search More
+                                        <a class="textStyle" style="font-size:12px;" href="#">jpankiewicz.com</a>
+                                        <br/> Using our iPad and Mobile App! Just kidding don't have one.
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="15"></td>
+                                    </tr>
+                                    <!--end content-->
+                                  </table>
+                                  <!-- END SECTION TABLE WITH SECTION AREA -->
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section21</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

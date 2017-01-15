@@ -1,0 +1,99 @@
+<snippet>
+	<content><![CDATA[
+      <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+      <tr>
+        <td align="center" valign="top" id="scaffoldingCell">
+          <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor">
+            <tr>
+              <td align="center" valign="top">
+                <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="center">
+                      <table id="fixedFlexibleTable" width="560" border="0" align="center" cellpadding="0" cellspacing="0" style="min-width:560px;">
+                        <tr>
+                          <td height="30" colspan="2"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="textStyle" colspan="2" style=" font-size:16px;line-height:22px;">
+                            Which Email Client do you hate?
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="20" colspan="2"></td>
+                        </tr>
+                        <tr>
+                          <td id="fixedFlexibleTable" align="center" valign="top" colspan="2" class="textStyleWhite" width="250" style="min-width:250px;">
+                            <!--[if mso]>
+                                                                            <v:rect
+                                                                                xmlns:v="urn:schemas-microsoft-com:vml"
+                                                                                xmlns:w="urn:schemas-microsoft-com:office:word"  stroke="f" href="mailto:ankiewicz84@gmail.com" style="height:45px;v-text-anchor:middle;width:250px;text-align:center;text-decoration: none; font-size:16px;line-height:22px; font-family:'Roboto', Arial, Helvetica, sans-serif;" fillcolor="#01aaff">
+                                                                                <w:anchorlock/>
+                                                                                <center>
+                                                                                 <![endif]-->
+                            <a id="fixedFlexibleTable" class="textStyleWhite " href="mailto:ankiewicz84@gmail.com" style="background-color:#01aaff;color:#ffffff;display:inline-block;text-decoration: none; font-size:16px; font-family:'Roboto', Arial, Helvetica, sans-serif; font-weight: lighter;line-height:42px;text-align:center;width:250px;-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;max-height:42px;min-height:42px;">Button</a>
+                            <!--[if mso]>
+                                                                                </center>
+                                                                            </v:rect>
+                                                                            <![endif]-->
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="20" width="100%"></td>
+                        </tr>
+                        <tr>
+                            <td id="fixedFlexibleTable" align="center" valign="top" class="textStyleWhite" width="250">
+                                <!--[if mso]>
+                                      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word"  arcsize="5%" stroke="f" href="#" style="height:45px;v-text-anchor:middle;width:560px;text-align:center;text-decoration: none; font-size:16px; font-family: 'avenir', Helvetica, sans-serif;" fillcolor="#01aaff">
+                                        <w:anchorlock/>
+                                        <center>
+                                      <![endif]-->
+                                <a id="fixedFlexibleTable" class="textStyleWhite buttonBorder" href="#" style="background-color:#01aaff;color:#ffffff;display:inline-block;text-decoration: none; font-size:16px; font-family: 'avenir', Helvetica, sans-serif; font-weight: normal;line-height:45px;text-align:center;width:250px;-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;max-height:42px;min-height:42px;">Round CTA</a>
+                                <!--[if mso]>
+                                    </center>
+                                  </v:roundrect>
+                                <![endif]-->
+                            </td>
+                        </tr>
+                        <tr>
+                          <td height="20" colspan="2"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="textStyle" colspan="2" style=" font-size:16px;line-height:22px;">
+                            <a class="textLink" href="#">Click here</a> to learn some cool stuff on emails
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="30" colspan="2"></td>
+                        </tr>
+                        <tr>
+                          <td align="left" class="textStyle" colspan="2" style=" font-size:16px;line-height:22px;">
+                            Now as I build this I need to fill this with some random connent so you will here things that I love and notes about writing better emails. For example, because email clients do no work the same way as web browsers, thanks outlook. besure that text styles are wrapping the immediate parent element of the copy. So if you use a link tag inside of a td tag, be sure to apply that text styles to that tag. This isn't always the transfered to b, i and strong tag elements. Though, some of the older outlooks do not render strong tags.
+                            <a class="textLink" href="#" style="font-size:16px;line-height:22px;">Here is some awesome call to action the body copy</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="40" colspan="2"></td>
+                        </tr>
+                        <!--end content-->
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="25"></td>
+                  </tr>
+                </table>
+                <!-- END SECTION TABLE WITH SECTION AREA -->
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section16</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,86 @@
+<snippet>
+	<content><![CDATA[
+                        <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+                        <tr>
+                          <td align="center" valign="top" id="scaffoldingCell">
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+                              <tr>
+                                <td align="center" valign="top">
+                                  <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                                  <table id="fixedFlexibleTable" align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                      <td align="center">
+                                        <table id="fixedFlexibleTable" width="580" border="0" align="center" cellpadding="0" cellspacing="0" style="min-width:580px;">
+                                          <tr>
+                                            <td>
+                                              <!--left-->
+                                              <table bgcolor="#ffffff" valign="top" id="fixedFlexibleTable" width="250" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:250px;">
+                                                <tr>
+                                                  <td>
+                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                      <tr>
+                                                        <td height="30"></td>
+                                                      </tr>
+                                                      <!-- img -->
+                                                      <tr>
+                                                        <td align="center" class="textStyle" style="font-size:36px;line-height:36px;">
+                                                          SPECIAL
+                                                          <br/> INCENTIVES
+                                                        </td>
+                                                      </tr>
+                                                      <!-- end img -->
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                              </table>
+                                              <!--end left-->
+                                              <!--Space-->
+                                              <table id="remove" width="24" border="0" cellpadding="0" cellspacing="0" align="left">
+                                                <tr>
+                                                  <td height="35" style="font-size: 0;line-height: 0px;border-collapse: collapse;">
+                                                    <p style="">&nbsp;</p>
+                                                  </td>
+                                                </tr>
+                                              </table>
+                                              <!--End Space-->
+                                              <!--right-->
+                                              <table bgcolor="#ffffff" id="fixedFlexibleTable" valign="top" width="300" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:300px;">
+                                                <tr>
+                                                  <td class="addheight" height="30"></td>
+                                                </tr>
+                                                <tr>
+                                                  <td align="center" class="textStyle" id="centerfont" style="font-size:16px;line-height:22px;">
+                                                    Special notes or other promotion content
+                                                    <br/> Other Special notes or something useful
+                                                    <br/>
+                                                    <a class="textLink" href="#" title="#"> Call to Action</a>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height="15"></td>
+                                                </tr>
+                                              </table>
+                                              <!--end right-->
+                                            </td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="25"></td>
+                                    </tr>
+                                  </table>
+                                  <!-- END SECTION TABLE WITH SECTION AREA -->
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section19</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,44 @@
+<snippet>
+	<content><![CDATA[
+                        <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+                        <tr>
+                          <td align="center" valign="top" id="scaffoldingCell">
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+                              <tr>
+                                <td align="center" valign="top">
+                                  <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                                  <table align="center" width="560" id="fixedFlexibleTable" border="0" cellspacing="0" cellpadding="0" style="min-width:560px;">
+                                    <tr>
+                                      <td height="15"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center" class="textStyle" style="font-size:24px;line-height:28px;">
+                                        NEW: Assets with Situs Property Summary Reports
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="15"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" class="textStyle" style="font-size:16px;line-height:21px;">
+                                        Visit the Due Diligence section of the  page to access the free report; it includes a comprehensive investment overview, including  and market overviews, rent roll, financial analysis and due diligence.
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="20"></td>
+                                    </tr>
+                                  </table>
+                                  <!-- END SECTION TABLE WITH SECTION AREA -->
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section22</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

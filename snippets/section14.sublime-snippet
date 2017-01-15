@@ -1,0 +1,54 @@
+<snippet>
+	<content><![CDATA[
+      <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+      <tr>
+        <td align="center" valign="top" id="scaffoldingCell">
+          <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+            <tr>
+              <td align="center" valign="top">
+                <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                <table id="fixedFlexibleTable" width="560" border="0" align="center" cellpadding="0" cellspacing="0" style="min-width:560px;">
+                  <tr>
+                    <td height="20"></td>
+                  </tr>
+                  <!-- email content -->
+                  <tr>
+                    <td align="left" class="textStyle" style="font-size:16px;line-height:26px;">
+                      Hi [NAME],
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="15"></td>
+                  </tr>
+                  <tr>
+                    <td align="left" class="textStyle" style="font-size:16px;line-height:26px;">
+                      jpankiewicz.com is now offering a variety of high-quality homes across the nation that feature an array of new benefits that will save you money and reduce much of the risk associated with purchasing a typical REO home.
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="15"></td>
+                  </tr>
+                  <tr>
+                    <td align="left" class="textStyle" style="font-size:16px;line-height:26px;">
+                      Along with financing and inspection contingencies, these properties provide seller-paid owner's title insurance, lower buyer's premiums and no closing costs to you when choosing to use the seller's designated closing company.
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="15"></td>
+                  </tr>
+                  <!-- end email content -->
+                </table>
+                <!-- END SECTION TABLE WITH SECTION AREA -->
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section14</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

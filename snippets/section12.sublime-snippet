@@ -1,0 +1,117 @@
+<snippet>
+	<content><![CDATA[
+            <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+            <tr>
+              <td align="center" valign="top" id="scaffoldingCell">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                      <table align="center" width="580" id="fixedFlexibleTable" border="0" cellspacing="0" cellpadding="0" style="min-width:580px;">
+                        <tr>
+                          <td height="15"></td>
+                        </tr>
+                        <tr>
+                          <td align="center">
+                            <!--Space-->
+                            <table width="3" border="0" cellpadding="0" cellspacing="0" align="left">
+                              <tr>
+                                <td height="20" style="font-size: 0;line-height: 0px;border-collapse: collapse;">
+                                  <!--  <p style="padding-left: 49px;">&nbsp;</p> -->
+                                </td>
+                              </tr>
+                            </table>
+                            <!--End Space-->
+                            <!-- small  panel -->
+                            <table class="smallcard" bgcolor="#ffffff" id="fixedFlexibleTable" width="277" border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:277px;">
+                              <tr>
+                                <td width="25%">
+                                  <a href="#" title="jpankiewicz.com">
+                                    <img style="color:#333333!important;display:block;" id="fullImageOnMobile" src="http://www.new.jpankiewicz.com/images/60-image-wireframe.jpg" width="60" height="67" alt="Image" />
+                                  </a>
+                                </td>
+                                <td width="75%">
+                                  <table bgcolor="#ffffff" id="fixedFlexibleTable" border="0" align="left" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                      <td align="left" class="textStyleDarkGrey" style="font-size:12px;">Width is limited</td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" class="textStyleDarkGrey" style="font-size:12px;">Height is unlimited</td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" class="textStyleGrey" style="font-size:12px;">
+                                        <a class="textLink" href="#" title="CTA Title">
+                                                                                    View Details
+                                                                                   </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" class="textStyleGreen" style="font-size:12px;">BIG FILES GET SHORTENED</td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                            <!--end of small  panel -->
+                            <!--Space-->
+                            <table width="16" border="0" cellpadding="0" cellspacing="0" align="left">
+                              <tr>
+                                <td id="smallPanelMobileSpace" height="35" style="font-size: 0;line-height: 0px;border-collapse: collapse;">
+                                  <p style="">&nbsp;</p>
+                                </td>
+                              </tr>
+                            </table>
+                            <!--End Space-->
+                            <!--right-->
+                            <!-- small  panel -->
+                            <table class="smallcard" bgcolor="#ffffff" id="fixedFlexibleTable" width="277" hieght border="0" align="left" cellpadding="0" cellspacing="0" style="min-width:277px;">
+                              <tr>
+                                <td width="25%">
+                                  <a href="#" title="jpankiewicz.com">
+                                    <img style="color:#333333!important;display:block;" id="fullImageOnMobile" src="http://www.new.jpankiewicz.com/images/60-image-wireframe.jpg" width="60" height="67" alt="Image" />
+                                  </a>
+                                </td>
+                                <td width="75%">
+                                  <table bgcolor="#ffffff" id="fixedFlexibleTable" border="0" align="left" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                      <td align="left" class="textStyleDarkGrey" style="font-size:12px;">Shorter emails</td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" class="textStyleDarkGrey" style="font-size:12px;">Get better click</td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" class="textStyleGrey" style="font-size:12px;">
+                                        <a class="textLink" href="#" title="CTA Title">
+                                                                                    View Details
+                                                                                   </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" class="textStyleGreen" style="font-size:12px;">BE SIMPLE</td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                            <!--end of small  panel -->
+                            <!--end right-->
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="10"></td>
+                        </tr>
+                      </table>
+                      <!-- END SECTION TABLE WITH SECTION AREA -->
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section12</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

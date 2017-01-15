@@ -1,0 +1,83 @@
+<snippet>
+	<content><![CDATA[
+        <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+            <tr>
+              <td align="center" valign="top" id="scaffoldingCell">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor">
+                  <!-- this is not a typical location for a height spacer -->
+                  <tr>
+                    <td height="15"></td>
+                  </tr>
+                  <!--  -->
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                      <table bgcolor="#ffffff" id="fixedFlexibleTable" class="panel " width="560" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="15"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="table-inner">
+                            <table width="520" id="fixedFlexibleTable" border="0" align="center" cellpadding="0" cellspacing="0" style="min-width:520px;">
+                              <!--content-->
+                              <tr>
+                                <td height="15"></td>
+                              </tr>
+                              <tr>
+                                <td align="left" class="textStyleDarkGrey" style=" font-size:26px;line-height:30px;">
+                                  Besure to declare everything in code in emails</td>
+                              </tr>
+                              <tr>
+                                <td height="15"></td>
+                              </tr>
+                              <tr>
+                                <td align="left" class="textStyleDarkGrey" style=" font-size:16px;">
+                                Leave nothing up to the email client to think for you. For example, set the font for ever item, set the line height for every single item. This helps assist the resets but email clients still like to fill in the blanks. So leaving nothing to chance, declare the font color everything single time, declare the alignment vertical alignment.
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="10"></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="15"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" id="fixedFlexibleTable" valign="top" class="textStyleWhite" width="520" style="min-width:520px;">
+                            <!--[if mso]>
+                              <v:rect
+                                  xmlns:v="urn:schemas-microsoft-com:vml"
+                                  xmlns:w="urn:schemas-microsoft-com:office:word"   stroke="f" href="jpankiewicz.com" style="height:45px;v-text-anchor:middle;width:520px;text-align:center;text-decoration: none; font-size:16px; font-family:'Roboto', Arial, Helvetica, sans-serif;" fillcolor="#01aaff">
+                                  <w:anchorlock/>
+                                  <center>
+                                   <![endif]-->
+                            <a id="fixedFlexibleTable" class="textStyleWhite " href="jpankiewicz.com" style="width:520px;min-width:520px;background-color:#01aaff;color:#ffffff;display:inline-block;text-decoration: none; font-size:16px; font-family:'Roboto', Arial, Helvetica, sans-serif; font-weight: lighter;line-height:42px;text-align:center;-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;max-height:42px;min-height:42px;"> Visit jpankiewicz.com</a>
+                            <!--[if mso]>
+                                  </center>
+                              </v:rect>
+                              <![endif]-->
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="20"></td>
+                        </tr>
+                      </table>
+                      <!-- END SECTION TABLE WITH SECTION AREA -->
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="15"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+	<tabTrigger>section6</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

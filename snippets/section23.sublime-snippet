@@ -1,0 +1,132 @@
+<snippet>
+	<content><![CDATA[
+                        <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+                        <tr>
+                          <td align="center" valign="top" id="scaffoldingCell">
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+                              <tr>
+                                <td align="center" valign="top">
+                                  <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                                  <table id="fixedFlexibleTable" width="560" border="0" align="center" cellpadding="0" cellspacing="0" style="min-width:560px;">
+                                    <tr>
+                                      <td height="25"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center">
+                                        <table width="580" id="fixedFlexibleTable" border="0" align="center" cellpadding="0" cellspacing="0">
+                                          <!--content-->
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey" style=" font-size:16px;"> [Greetings], </td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey" style=" font-size:16px;">
+                                              Refer an awesome professional person today!
+                                              <br/>This way we can hire all of your best friends
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td height="25"></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey" style=" font-size:16px;">
+                                              We're hiring for every single roles.
+                                              <br/> Check out these special referral bonus increases...
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td height="25"></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey" style=" font-size:16px;">
+                                              <img src="http://new.jpankiewicz.com/images/check.png" width="16" height="16" alt="">$5K referral bonus per role
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey" style=" font-size:16px;">
+                                              <img src="http://new.jpankiewicz.com/images/check.png" width="16" height="16" alt=""> $250 when your referral interviews onsite
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey" style=" font-size:16px;">
+                                              <img src="http://new.jpankiewicz.com/images/check.png" width="16" height="16" alt=""> Family Dream I want to vacation in some cool place
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td height="25"></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="center" class="textStyleDarkGrey" style=" font-size:16px;">
+                                              What are you waiting for? Do it.
+                                            </td>
+                                          </tr>
+                                          <!--end content-->
+                                          <tr>
+                                            <td height="10"></td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="15"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center">
+                                        <table  id="fixedFlexibleTable" width="90%" border="0" align="center" cellpadding="0" cellspacing="0" style="max-width:560px;">
+                                          <tr>
+                                            <td height="35" class="textStyle">
+                                              <!--[if mso]>
+                                                  <v:rect
+                                                      xmlns:v="urn:schemas-microsoft-com:vml"
+                                                      xmlns:w="urn:schemas-microsoft-com:office:word" href="mailto:ankiewicz84@gmail.com" style="height:45px;v-text-anchor:middle;width:560px;text-align:center;" stroke="f" fillcolor="#0088cc">
+                                                      <w:anchorlock/>
+                                                      <center>
+                                                       <![endif]-->
+                                              <a  id="fixedFlexibleTable" class="button" href="mailto:ankiewicz84@gmail.com"
+                                                  style="background-color:#0088cc;color:#ffffff;display:inline-block;text-decoration: none; font-size:16px; font-family:'Roboto', Arial, Helvetica, sans-serif; font-weight: lighter;line-height:42px;text-align:center;width:100%;-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">Send a Email Now</a>
+                                              <!--[if mso]>
+                                                    </center>
+                                                </v:rect>
+                                                <![endif]-->
+                                            </td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="25"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center" style=" font-size:16px;">
+                                        <a class="textLink" href="#" title="CTA Title">
+                                          Click here to view open Stuff
+                                         </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="15"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center" style=" font-size:16px;">
+                                        <a class="textLink" href="#">
+                                        Promotional details
+                                       </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="50"></td>
+                                    </tr>
+                                  </table>
+                                  <!-- END SECTION TABLE WITH SECTION AREA -->
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section23</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

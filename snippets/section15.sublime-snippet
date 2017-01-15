@@ -1,0 +1,95 @@
+<snippet>
+	<content><![CDATA[
+      <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+      <tr>
+        <td align="center" valign="top" id="scaffoldingCell">
+          <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor">
+            <tr>
+              <td align="center" valign="top">
+                <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="center" class="textStyle">
+                      <table id="fixedFlexibleTable" width="560" border="0" align="center" cellpadding="0" cellspacing="0" style="min-width:560px;">
+                        <tr>
+                          <td height="15"></td>
+                        </tr>
+                        <tr>
+                          <td align="left" class="textStyle" colspan="2" style=" font-size:18px;line-height:22px;">
+                            <b>Promotional words of wisdom</b>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="10" colspan="2"></td>
+                        </tr>
+                        <tr>
+                             <td width="20" align="left" valign="top" class="textStyleDarkGreyBull" style="font-size:16px;line-height:22px;">
+                                &#x2713;&nbsp;
+                            </td>
+                            <td align="left" valign="top" class="textStyleDarkGreyBulltext" style="font-size:16px;line-height:22px;">
+                                Promtional content for jpankiewicz.com - HTML unicode/digbats is great - <a class="textLink" href="http://www.w3schools.com/charsets/ref_utf_dingbats.asp" style="font-size:16px;line-height:22px;">http://www.w3schools.com/charsets/ref_utf_dingbats.asp</a>
+                            </td>
+                        </tr>
+                        <tr>
+                             <td width="20" align="left" valign="top" class="textStyleDarkGreyBull" style="font-size:16px;line-height:22px;">
+                               &#x2713;&nbsp;
+                            </td>
+                            <td align="left" valign="top" class="textStyleDarkGreyBulltext" style="font-size:16px;line-height:22px;">
+                                "trbull" is the snippet command for a table row with a bullet and content
+                            </td>
+                        </tr>
+                        <tr>
+                             <td width="20" align="left" valign="top" class="textStyleDarkGreyBull" style="font-size:16px;line-height:22px;">
+                                &bull;
+                            </td>
+                            <td align="left" valign="top" class="textStyleDarkGreyBulltext" style="font-size:16px;line-height:22px;">
+                                These "trbull" are emails verison of unorder list items
+                            </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" height="20" width="100%"></td>
+                        </tr>
+                        <tr>
+                             <td width="20" align="left" valign="top" class="textStyleDarkGreyBull" style="font-size:16px;line-height:22px;">
+                                &bull;
+                            </td>
+                            <td align="left" valign="top" class="textStyleDarkGreyBulltext" style="font-size:16px;line-height:22px;">
+                              Be sure to apply "colspan="2" to all other cells or spacers in the same table. If you master colspan and rowspan in emails you will have far more freedom in your email development then one would realize
+                            </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" height="20" width="100%"></td>
+                        </tr>
+                        <tr>
+                             <td width="20" align="left" valign="top" class="textStyleDarkGreyBull" style="font-size:16px;line-height:22px;">
+                                &bull;
+                            </td>
+                            <td align="left" valign="top" class="textStyleDarkGreyBulltext" style="font-size:16px;line-height:22px;">
+                                be sure to review the snippet commands for: trt, trbull, textLink, emailbutton, email, spacer
+                            </td>
+                        </tr>
+                        <tr>
+                          <td height="30" colspan="2"></td>
+                        </tr>
+                        <!--end content-->
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="25"></td>
+                  </tr>
+                </table>
+                <!-- END SECTION TABLE WITH SECTION AREA -->
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section15</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

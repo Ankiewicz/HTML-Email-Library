@@ -1,0 +1,92 @@
+<snippet>
+	<content><![CDATA[
+    <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+      <tr>
+        <td align="center" valign="top" id="scaffoldingCell">
+          <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+            <tr>
+              <td align="center" valign="top">
+                <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td align="center">
+                      <table id="fixedFlexibleTable" width="560" border="0" align="center" cellpadding="0" cellspacing="0" style="min-width:560px;">
+                        <tr>
+                          <td height="15"></td>
+                        </tr>
+                        <tr>
+                          <td align="center">
+                            <!--left-->
+                            <table bgcolor="#ffffff" id="fixedFlexibleTable" valign="top" width="164" border="0" align="left" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td height="30"></td>
+                              </tr>
+                              <!-- img -->
+                              <tr>
+                                <td align="center" class="textStyle" style="font-size:36px;line-height:36px;">
+                                  <a class="hereLink" href="#" title="#">
+                                    <img width="144" style="color:#333333!important;" src="http://www.new.jpankiewicz.com/images/cameraIcon.png" alt="Some Random Icon">
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                            <!--end left-->
+                            <!--Space-->
+                            <table id="remove" width="4" border="0" cellpadding="0" cellspacing="0" align="left">
+                              <tr>
+                                <td height="35" style="font-size: 0;line-height: 0px;border-collapse: collapse;"></td>
+                              </tr>
+                            </table>
+                            <!--End Space-->
+                            <!--right-->
+                            <table bgcolor="#ffffff" valign="top" width="370" border="0" align="left" cellpadding="0" cellspacing="0" id="fixedFlexibleTable" style="min-width:370px;">
+                              <tr>
+                                <td align="left" class="textStyle" style="font-size:16px;line-height:22px;">
+                                  Here is a bunch of content could even be a header
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="10"></td>
+                              </tr>
+                              <tr>
+                                <td align="left" class="textStyle" style="font-size:16px;line-height:22px;">
+                                  I love being a web developer and building new things and solving problems. I like to approach my job as if I was trying to work myself out of a job! Make it proceint and do it right the first time and never have to do it again.
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="10" width="100%"></td>
+                              </tr>
+                              <tr>
+                                  <td align="left" class="textStyle" style="font-size:16px;line-height:22px;">
+                                        Thanks Dad for teaching me right!
+                                  </td>
+                              </tr>
+                              <!--end content-->
+                              <tr>
+                                <td height="15"></td>
+                              </tr>
+                            </table>
+                            <!--end right-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="25"></td>
+                  </tr>
+                </table>
+                <!-- END SECTION TABLE WITH SECTION AREA -->
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section17</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

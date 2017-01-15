@@ -1,0 +1,682 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="format-detection" content="telephone=no" />
+  <title>Jpankiewicz.com</title>
+  <!-- Help combat some of the font issues in emails *Not all of Outlook renders important tags-->
+  <!--[if mso]>
+    <style type="text/css">
+        body, table, td, a, b, span {font-family:'Roboto', Arial, Helvetica, sans-serif !important;}
+        body, table, td, a, b, span {font-family:'Roboto', Arial, Helvetica, sans-serif;}
+    </style>
+    <![endif]-->
+  <style type="text/css">
+    /*Setting fonts and hoping for the best*/
+
+    @import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i');
+    /*////// RESET STYLES //////*/
+
+    body,
+    #bodyTable,
+    #bodyCell {
+      height: 100% !important;
+      margin: 0;
+      padding: 0;
+      width: 100% !important;
+      background-color: #ffffff;
+    }
+
+    table {
+      border-collapse: collapse;
+    }
+
+    img,
+    a img {
+      border: 0;
+      outline: none;
+      text-decoration: none;
+      color: #333333;
+      font-size: 16px;
+    }
+    /*try to avoid header tags in emails*/
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin: 0;
+      padding: 0;
+    }
+
+    p {
+      margin: 1em 0;
+    }
+    b{
+        font-family: font-family:'Roboto', Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+    /*////// CLIENT-SPECIFIC STYLES //////*/
+
+    .ReadMsgBody {
+      width: 100%;
+    }
+
+    .ExternalClass {
+      width: 100%;
+    }
+    /* Force Hotmail/Outlook.com to display emails at full width. */
+
+    .ExternalClass,
+    .ExternalClass p,
+    .ExternalClass span,
+    .ExternalClass font,
+    .ExternalClass td,
+    .ExternalClass div {
+      line-height: 100%;
+    }
+    /* Force Hotmail/Outlook.com to display line heights lighterly. */
+
+    table,
+    td {
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+    /* Remove spacing between tables in Outlook 2007 and up. */
+
+    #outlook a {
+      padding: 0;
+    }
+    /* Force Outlook 2007 and up to provide a "view in browser" message. */
+
+    img {
+      -ms-interpolation-mode: bicubic;
+    }
+    /* Force IE to smoothly render resized images. */
+
+    body,
+    table,
+    td,
+    p,
+    a,
+    li,
+    blockquote {
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    }
+    /* Prevent Windows- and Webkit-based mobile platforms from changing declared text sizes. */
+    /*////// GENERAL STYLES //////*/
+
+    h1,
+    h2,
+    h3 {
+      font-family: "avenir", Helvetica, sans-serif;
+      font-weight: lighter;
+    }
+
+    h1,
+    h1 a {
+      color: #606060;
+      font-size: 44px;
+      font-weight: 100;
+      line-height: 115%;
+      text-align: left;
+    }
+
+    h2,
+    h2 a {
+      color: #606060;
+      font-size: 34px;
+      font-weight: 100;
+      line-height: 100%;
+      text-align: left;
+    }
+
+    h3,
+    h3 a {
+      font-size: 20px;
+      line-height: 115%;
+      text-align: center;
+    }
+
+    a {
+      text-decoration: none;
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      font-weight: lighter;
+    }
+    /*This will style your call to actions in text copy with the color you wish*/
+    /*Please be sure to use the style hex color of your brand*/
+
+    .textLink {
+      color: #0088CC;
+      text-decoration: none;
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      font-weight: lighter;
+    }
+    /*add this class to all cells with text*/
+
+    .textStyle {
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      color: #666666;
+      font-weight: lighter;
+    }
+
+    .textStyleSpacer {
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      color: #ffffff;
+    }
+
+    .textStyleWhite {
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      font-weight: lighter;
+      color: #ffffff;
+    }
+
+    .textStyleGrey {
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      font-weight: lighter;
+      color: #888888;
+    }
+
+    .textStyleDarkGrey {
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      font-weight: lighter;
+      color: #666666;
+    }
+    /*Colored Font example*/
+
+    .textStyleGreen {
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      font-weight: lighter;
+      color: #e99904;
+    }
+
+    .textStyleDarkGreyprop {
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      font-weight: lighter;
+      color: #333333;
+      font-size: 14px;
+    }
+    /*styles for utilizing bullet points in email(aka email ULs)*/
+
+    .textStyleDarkGreyBull,
+    .textStyleDarkGreyBulltext {
+      font-family: 'avenir', Helvetica, sans-serif;
+      font-weight: lighter;
+      color: #666666;
+      text-decoration: none;
+    }
+
+    .state-image-mobile {
+      color: #333333;
+    }
+
+    .button {
+      background-color: #0088CC;
+    }
+
+    .greybackground {
+      background-color: #f2f2f2;
+    }
+
+    .card {
+      -webkit-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      -moz-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      background-color: #ffffff!important;
+    }
+
+    .smallcard {
+      -webkit-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      -moz-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      background-color: #ffffff!important;
+    }
+
+    .panel {
+      -webkit-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      -moz-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      background-color: #ffffff!important;
+    }
+    /*scaffolding frame style*/
+
+    #scaffoldingTable {
+      width: 100%;
+    }
+
+    #scaffoldingCell {}
+
+    .fixedwidthColor {
+      background-color: #ffffff;
+    }
+
+    .fixedwidthColorSpacer {
+      background-color: #eeeeee;
+    }
+    /*section background colors*/
+
+    #header {
+      background-color: #e99904;
+      display: block;
+    }
+    /*hero image section */
+
+    .smallcard {
+      -webkit-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      -moz-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, .2);
+      background-color: #ffffff!important;
+    }
+    /*footer style*/
+
+    .footerContent {
+      text-align: center;
+      color: #999999!important;
+      font-weight: lighter;
+      line-height: 15px;
+      font-size: 10px;
+      text-decoration: none;
+    }
+
+    .socialIconButtons {
+      padding: 10px;
+    }
+
+    .footerContent a {
+      color: #999999;
+    }
+
+    .footerContent a:hover {
+      color: #999999;
+    }
+
+    .footerContent a:visited {
+      color: #999999;
+    }
+
+    .footerContent a:active {
+      color: #999999;
+    }
+    /*            .fadeBox{align:left!important;}*/
+
+    #centerfont {
+      text-align: left;
+    }
+
+    #yahooFix {
+      width: 260px;
+    }
+
+     .buttonBorder {
+        border-collapse: separate!important;
+        -webkit-border-radius: 3px!important;
+        -moz-border-radius: 3px!important;
+        border-radius: 3px!important;
+    }
+    
+    /*////// MOBILE STYLES //////*/
+
+    @media only screen and (max-width: 600px;
+    ) {
+      tr[id="remove"] {
+        display: none!important;
+      }
+    }
+
+    @media only screen and (max-width: 450px) {
+      /*////// RESET STYLES //////*/
+      td[class="headerpaddingFix"],
+      td[id="scaffoldingCell"],
+      td[id="footerContainer"],
+      td[id="footerContentArea"] {
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+      }
+      /*/////any table with a fixed with must join this group in order to become responsive*/
+      table[id="centercontentMobile"],
+      table[id="fixedFlexibleTable"],
+      td[id="fixedFlexibleTable"],
+      a[id="fixedFlexibleTable"] {
+        max-width: 450px !important;
+        width: 100% !important;
+        min-width: 100%!important;
+      }
+      /*////// CLIENT-SPECIFIC STYLES //////*/
+      body {
+        width: 100% !important;
+        min-width: 100% !important;
+      }
+      /* Force iOS Mail to render the email at full width. */
+      /*////// GENERAL STYLES //////*/
+      /* h1{font-size:34px !important;}
+                h2{font-size:30px !important;}
+                h3{font-size:24px !important;}*/
+      td[class="greybackground"] {
+        padding-left: 10px!important;
+        padding-right: 10px!important;
+      }
+      td[class="textStyle"] {
+        padding-left: 10px!important;
+        padding-right: 10px!important;
+      }
+      td[class="textStyleWhite"] {
+        padding-left: 10px!important;
+        padding-right: 10px!important;
+      }
+      td[class="textStyleGrey"] {
+        padding-left: 10px!important;
+        padding-right: 10px!important;
+      }
+      td[class="textStyleDarkGrey"] {
+        padding-left: 10px!important;
+        padding-right: 10px!important;
+      }
+      td[class="textStyleGreen"] {
+        padding-left: 10px!important;
+        padding-right: 10px!important;
+      }
+      td[class="textStyleDarkGreyprop"] {
+        padding-left: 10px!important;
+        padding-right: 10px!important;
+        font-size: 16px!important;
+      }
+      td[id="centerfont"] {
+        text-align: center!important;
+        width: 100%!important;
+      }
+      td[id="iconCenterFix"] {
+        width: 200px!important;
+      }
+      table[id="iconCenterFix"] {
+        width: 200px!important;
+      }
+      td[id="displayimageicon"] {
+        display: block!important;
+        height: 68px!important;
+        width: 200px!important;
+      }
+      table[id="icontable"] {
+        display: block!important;
+        min-width: 210px!important;
+        margin: 0 auto!important;
+        width: 100%!important;
+      }
+      td[class="addheight"] {
+        height: 15px!important;
+      }
+      td[id="smallPanelMobileSpace"] {
+        height: 10px!important;
+      }
+      tr[id="remove"] {
+        display: none!important;
+      }
+      td[id="remove"] {
+        display: none!important;
+      }
+      table[id="remove"] {
+        display: none!important;
+      }
+      td[id="headerhtfix"] {
+        height: 30px!important;
+      }
+      td[id="footerhtfix"] {
+        height: 30px!important;
+      }
+      table[class="noMarg"] {
+        margin-left: 0!important;
+      }
+      td[id="bottomFix"] {
+        padding: 0!important;
+      }
+      /*Responsive*/
+      table[class="newPicTop"] {
+        background-image: url('http://www.new.jpankiewicz.com/images/450-image-wireframe.jpg')!important;
+        background-position: top center!important;
+      }
+      table[class="newPic"] {
+        background-image: url('http://www.new.jpankiewicz.com/images/450-image-wireframe.jpg')!important;
+        background-position: center!important;
+      }
+      /* Image */
+      img[id="fullImageOnMobile"] {
+        width: 100% !important;
+        height: auto !important;
+        min-width: 100%!important;
+      }
+      /* ETC */
+    }
+
+    @media only screen and (max-width: 414px) {
+      /*iphone6 plus*/
+    }
+
+    @media only screen and (max-width: 375px) {
+      table[class="newPicTop"] {
+        background-image: url('http://www.new.jpankiewicz.com/images/450-image-wireframe.jpg')!important;
+        background-position: top center!important;
+      }
+    }
+
+    @media only screen and (max-width: 360px) {
+      td[class="socialIconButtons"] {
+        padding: 0px;
+      }
+    }
+
+    @media only screen and (max-width: 320px) {
+      table[id="fixedFlexibleTable"],
+      td[id="fixedFlexibleTable"] {
+        max-width: 320px !important;
+        width: 100% !important;
+      }
+    }
+
+    @media only screen and (max-width: 479px) {
+      body {
+        width: auto !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <center>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="bodyTable">
+      <!-- height="100%" -->
+      <tr id="remove">
+        <td align="center" class="textStyle" style="text-align:center;color:#f2f2f2;font-size:1px;line-height:1px;opacity:0;">
+          <!--  This will help you render preview text(aka sub-subject line in emails)-->
+          <!-- THIS IS THE PREVIEW TEXT LOCATION FOR RENDERING THE PREVIEW TEXT BELOW THE SUBJECT LINE - THIS SECTION DOES NOT DISPLAY IN THE BODY OF THE EMAIL  -->
+          preview-text
+          <!-- Non breaking spaces to clear any other data from showing  -->
+        </td>
+      </tr>
+      <tr id="remove">
+        <td align="center" class="textStyle" style="text-align:center;color:#666666!important;font-size:10px;">
+          <!-- Marketo/third part mail service webpage render use onlytoken -->
+          <!-- <a style="color:#666666;" href="{{system.viewAsWebpageLink}}">View in Browser</a> -->
+          <!-- end of marketo token -->
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" id="bodyCell">
+          <!-- // BEGIN EMAIL -->
+          <table border="0" cellpadding="0" cellspacing="0" width="100%" id="scaffoldingTable">
+            <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+            <tr>
+              <td align="center" valign="top" id="scaffoldingCell" class="header">
+                <table bgcolor="#e99904" border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" style="min-width:600px;">
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                      <table border="0" cellpadding="0" cellspacing="0" align="center" width="560" id="fixedFlexibleTable">
+                        <tr>
+                          <td height="10" colspan="2"></td>
+                        </tr>
+                        <tr>
+                          <td align="left" valign="middle">
+                            <!--  To center logo - comment out CTA td(cell) place this td(cell) align to center-->
+                            <a style="color:#ffffff;" href="#">
+                              <!-- <img style="color:#333333!important;" src="#" alt="logo.com" height="40" width="124" /> -->
+                              LOGO
+                            </a>
+                          </td>
+                          <!--  Comment out this cell if you do not wish to have this CTA-->
+                          <td align="right" valign="middle" id="headerCell">
+                            <a style="color:#ffffff;font-size:14px;line-height:18px;" href="#">
+                                                          CTA
+                                                        </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="10" colspan="2"></td>
+                        </tr>
+                      </table>
+                      <!-- END SECTION TABLE WITH SECTION AREA -->
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+            <!-- ****************************ABOVE IS THE HEADER SHOULD NOT NEED TO BE TOUCHED ******************************** -->
+            <!-- ****************************THIS IS WHERE THE BODY STARTS ABOVE THIS IS WHAT WILL BE CONSIDERD THE HEADER AREA ******************************** -->
+            <!-- *************************************************************************************************************** -->
+            <!-- ****************************ABOVE IS THE HEADER SHOULD NOT NEED TO BE TOUCHED ******************************** -->
+
+
+
+
+
+
+
+                <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+                
+            <!-- ****************************BELOW IS THE FOOTER SHOULD NOT NEED TO BE TOUCHED ******************************** -->
+            <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+            <tr>
+              <td align="center" valign="top" id="scaffoldingCell">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable">
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                      <table border="0" cellpadding="0" cellspacing="0" width="520" id="fixedFlexibleTable">
+                        <tr>
+                          <td align="center" class="textStyle" height="15" width="100%">
+                            <table id="fixedFlexibleTable" border="0" cellpadding="0" width="600" cellspacing="0">
+                              <tr>
+                                <td align="center" class="textStyle" valign="top" style="border-top-width: 1px; border-top-color: #dddddd; border-top-style: solid;">
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="center" valign="top" class="footerContentArea">
+                            <!-- SECTION  CONTENT AREA -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="520" id="fixedFlexibleTable">
+                              <tr>
+                                <td height="10" width="100%"></td>
+                              </tr>
+                              <tr>
+                                <td align="center" valign="top">
+                                  <table border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                      <td align="center" valign="top" class="socialIconButtons">
+                                        <a href="#" target="_blank" title="Social Icon">
+                                          <img width="35" height="35" src="http://new.jpankiewicz.com/images/fbook.png" alt="facebook" /></a>
+                                      </td>
+                                      <td align="center" valign="top" class="socialIconButtons">
+                                        <a href="#" target="_blank" title="Social Icon">
+                                          <img width="35" height="35" src="http://new.jpankiewicz.com/images/gplus.png" alt="google" /></a>
+                                      </td>
+                                      <td align="center" valign="top" class="socialIconButtons">
+                                        <a href="#" target="_blank" title="Social Icon">
+                                          <img width="35" height="35" src="http://new.jpankiewicz.com/images/in.png" alt="linkedin" /></a>
+                                      </td>
+                                      <td align="center" valign="top" class="socialIconButtons">
+                                        <a href="#" target="_blank" title="Social Icon">
+                                          <img width="35" height="35" src="http://new.jpankiewicz.com/images/tweet.png" alt="twitter" /></a>
+                                      </td>
+                                      <td align="center" valign="top" class="socialIconButtons">
+                                        <a href="#" target="_blank" title="Social Icon">
+                                          <img width="35" height="35" src="http://new.jpankiewicz.com/images/yt.png" alt="youtube" /></a>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <!-- adding application badges -->
+                              <tr>
+                                <td align="center">
+                                  <table border="0" cellpadding="0" cellspacing="0" width="220" id="">
+                                    <tr>
+                                      <td valign="middle" align="center">
+                                        <a target="_blank" href="#" title="Google Play Download">
+                                          <img width="100" src="http://new.jpankiewicz.com/images/download_Google_Store_Badge.png" alt="Download Google Play" /></a>
+                                      </td>
+                                      <td valign="middle" align="center">
+                                        <a target="_blank" href="#" title="Download Apple App Store">
+                                          <img width="100" src="http://new.jpankiewicz.com/images/download_Apple_Store_Badge.png" alt="Download Apple Store" /></a>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="10" width="100%"></td>
+                              </tr>
+                              <!-- end of added application badges -->
+                              <tr>
+                                <td align="center" valign="top" class="footerContent textStyle">
+                                  <a href="#"> Licensing &amp; Disclosures |</a>
+                                  <a href="#">Privacy Statement |</a>
+                                  <a href="#">Website Terms of Use  | </a>
+                                  <a href="#">  Unsubscribe</a>
+                                  <br />
+                                  <a href="#">
+                                    123 Street, Some Town <br/>
+                                    © 2017 jpankiewicz.com, All Rights Reserved
+                                  </a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="30" width="100%"></td>
+                              </tr>
+                            </table>
+                            <!-- SECTION  CONTENT AREA -->
+                          </td>
+                        </tr>
+                      </table>
+                      <!-- END SECTION TABLE WITH SECTION AREA -->
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+          </table>
+        </td>
+      </tr>
+    </table>
+</center>
+</body>
+</html>
+
+]]></content>
+<tabTrigger>email</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,140 @@
+<snippet>
+	<content><![CDATA[
+  <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+      <tr>
+        <td align="center" valign="top" id="scaffoldingCell">
+          <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor">
+            <tr>
+              <td align="center" valign="top">
+                <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                <table id="fixedFlexibleTable" align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <tr>
+                      <td height="15"></td>
+                    </tr>
+                    <td align="center">
+                      <table id="fixedFlexibleTable" width="580" border="0" align="center" cellpadding="0" cellspacing="0" style="min-width:580px;">
+                        <!-- if you wish to give a seperated background color add color to this table  -->
+                        <tr>
+                          <td height="25"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="padding-left:10px;paddding-right:10px;">
+                            <!--left-->
+                            <table id="fixedFlexibleTable" width="320" border="0" align="left" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td align="center">
+                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                      <td align="left">
+                                        <table width="300" border="0" align="left" cellpadding="0" cellspacing="0" id="fixedFlexibleTable">
+                                          <!--content-->
+                                          <tr>
+                                            <td align="left" width="72" valign="top" class="textStyle " style=" font-size:16px;">
+                                              <b>When:</b>
+                                            </td>
+                                            <td align="left" valign="top" class="textStyle " style=" font-size:16px;">
+                                              Thursday, September 29th
+                                              <br/> 1-2 PM or 3-4 PM
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td colspan="2" height="15" width="100%"></td>
+                                          </tr>
+                                          <tr>
+                                            <td align="left" width="72" valign="top" class="textStyle " style=" font-size:16px;">
+                                              <b>Where:</b>
+                                            </td>
+                                            <td align="left" valign="top" class="textStyle " style=" font-size:16px;">
+                                            Some Building
+                                              <i class="textStyle " style=" font-size:16px;">Located near stuff<i>
+                                            </td>
+                                           </tr>
+                                           <!--end content-->
+                                          </table>
+                                         </td>
+                                        </tr>
+                                        <tr>
+                                         <td height="20"></td>
+                                        </tr>
+                                       </table>
+                                      </td>
+                                     </tr>
+                                    </table>
+                                    <!--end left-->
+                                    <!--right-->
+                                    <table  id="fixedFlexibleTable"  width="240" border="0" align="left" cellpadding="0" cellspacing="0">
+                                     <tr>
+                                      <td align="center">
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                         <td align="left" class="textStyle">
+                                          <table width="225" border="0" align="left" cellpadding="0" cellspacing="0" id="fixedFlexibleTable">
+                                           <tr>
+                                            <td align="left" colspan="2" class="textStyle "  style=" font-size:16px;">
+                                             &bull;&nbsp;&nbsp;   Yum Yum's
+                                             <br/>
+                                             &bull;&nbsp;&nbsp;   Free Stuff
+
+                                            </td>
+                                           </tr>
+                                           <!--content-->
+                                           <tr>
+                                            <td align="left" width="20"  class="textStyle " style=" min-width:20px;font-size:16px;" >
+                                             <!-- empty spacer -->
+                                            </td>
+                                            <td align="left" class="textStyle "  style=" font-size:16px;">
+                                             »&nbsp;  $500,000 Gift Cards
+                                            </td>
+                                           </tr>
+                                           <tr>
+                                            <td align="left" width="20"  class="textStyle " style=" min-width:20px;font-size:16px;" >
+                                             <!-- empty spacer -->
+                                            </td>
+                                            <td align="left" class="textStyle "  style=" font-size:16px;">
+                                             »&nbsp;  New Cars
+                                            </td>
+                                           </tr>
+                                           <!--end content-->
+                                          </table>
+                                         </td>
+                                        </tr>
+                                        <tr>
+                                         <td height="15" colspan="2"></td>
+                                        </tr>
+                                       </table>
+                                      </td>
+                                     </tr>
+                                    </table>
+                                    <!--end right-->
+                                   </td>
+                                  </tr>
+                                  <tr>
+                                   <td align="left" class="textStyle "  style=" font-size:12px;padding-left:10px;paddding-right:10px;">
+                                    <i class="textStyle "  style=" font-size:12px;">Small footnote about something</i>
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td height="15"></td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                  <!-- END SECTION TABLE WITH SECTION AREA -->
+                                </td>
+                              </tr>
+                              <tr>
+                                <td id="remove" height="10"></td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                        <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+<tabTrigger>section18</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

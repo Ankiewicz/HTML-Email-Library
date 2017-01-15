@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+		<tr>
+		    <td align="center" valign="top" class="textStyleWhite" width="250">
+		        <!--[if mso]>
+		              <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word"  arcsize="5%" stroke="f" href="#" style="height:45px;v-text-anchor:middle;width:250px;text-align:center;text-decoration: none; font-size:16px; font-family: 'avenir', Helvetica, sans-serif;" fillcolor="#01aaff">
+		                <w:anchorlock/>
+		                <center>
+		              <![endif]-->
+		        <a id="fixedFlexibleTable" class="textStyleWhite buttonBorder" href="#" style="background-color:#01aaff;color:#ffffff;display:inline-block;text-decoration: none; font-size:16px; font-family: 'avenir', Helvetica, sans-serif; font-weight: normal;line-height:45px;text-align:center;width:250px;-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;max-height:42px;min-height:42px;">Round CTA</a>
+		        <!--[if mso]>
+		            </center>
+		          </v:roundrect>
+		        <![endif]-->
+		    </td>
+		</tr>
+]]></content>
+<tabTrigger>emailround</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

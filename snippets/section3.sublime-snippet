@@ -1,0 +1,82 @@
+<snippet>
+	<content><![CDATA[
+            <!-- BEGIN OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row  -->
+            <tr>
+              <td align="center" valign="top" id="scaffoldingCell">
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="fixedFlexibleTable" class="fixedwidthColor" style="min-width:600px;">
+                  <tr>
+                    <td align="center" valign="top">
+                      <!-- BEGIN SECTION TABLE WITH SECTION AREA -->
+                      <table width="600" height="274" border="0" align="center" cellspacing="0" background="http://www.new.jpankiewicz.com/images/600-image-wireframe.jpg" cellpadding="0" style="background-image:url('http://www.new.jpankiewicz.com/images/600-image-wireframe.jpg');background:url('http://www.new.jpankiewicz.com/images/600-image-wireframe.jpg');background-size:100% 100%!important;background-repeat: no-repeat;min-width:600px;background-color:#777777;"
+                          id="fixedFlexibleTable" class="newPicTop">
+                        <tr>
+                          <td width="600" height="185" valign="top" align="left" id="fixedFlexibleTable" style=" min-width:600px;">
+                            <!--[if gte mso 9]>
+                            <v:rect
+                                xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:274px; background-repeat:no-repeat; background-position: left center;">
+                                <v:fill type="tile" src="http://www.new.jpankiewicz.com/images/600-image-wireframe.jpg"  />
+                                <v:textbox inset="0,0,0,0" style="color:#ffffff;">
+                                <![endif]-->
+                            <table width="330" id="fixedFlexibleTable" height="165" border="0" cellspacing="0" cellpadding="0" style="min-height:165px;min-width:330px;">
+                              <tr>
+                                <td id="headerhtfix" height="65" valign="top" align="center"></td>
+                              </tr>
+                              <tr>
+                                <td align="center"  class="textStyleWhite" style="font-size:13px; ">
+                                  Dear [ Developer ],
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="center" class="textStyleWhite">
+                                  DO NOT USE TEXT TRANSFORM
+                                </td>
+                              </tr>
+                              <tr>
+                                <td  align="center" class="textStyleWhite" style="font-size:12px; ">
+                                  Not all clients recognize it
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="25"></td>
+                              </tr>
+                              <tr>
+                                <td valign="top" align="center" class="textStyleWhite">
+                                  <table id="fixedFlexibleTable" border="0" align="center" cellspacing="0" bgcolor="#01aaff" class="button" style="width:260px;text-decoration: none; color:#FFFFFF; line-height: 28px; letter-spacing:1px; vertical-align:middle;">
+                                    <!--link-->
+                                    <tr>
+                                      <td height="5"></td>
+                                    </tr>
+                                    <tr>
+                                      <td height="25" id="yahooFix" align="center" valign="middle" class="textStyleWhite" style="font-size:12px;line-height:12px;">
+                                        <a class="textStyleWhite" href="#" style="text-align: center;">In Fake Btns only text is clickable</a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td height="5"></td>
+                                    </tr>
+                                    <!--end link-->
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                            <!--[if gte mso 9]>
+                                </v:textbox>
+                            </v:rect>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                      <!-- END SECTION TABLE WITH SECTION AREA -->
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- END OF TABLE ROW SCAFFOLDING  **** This is the section you repeat for new row   -->
+]]></content>
+	<tabTrigger>section3</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
