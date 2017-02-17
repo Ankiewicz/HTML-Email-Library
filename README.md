@@ -21,6 +21,8 @@ This template is a great source to start developing emails with, this code will 
 
  [Download the screenshot results of a Litmus test](http://www.new.jpankiewicz.com/images/Email%20Client%20snap%20shots.zip "Litmus screenshot test results")
 
+##Background hero images clickable
+  I have built a way to make this happen. An example will be available shortly.
 
 ## Tips and tricks
 
