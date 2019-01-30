@@ -10,6 +10,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   <meta name="format-detection" content="telephone=no" />
+  <meta name="x-apple-disable-message-reformatting" />
+
   <title>Jpankiewicz.com</title>
   <!-- Help combat some of the font issues in emails *Not all of Outlook renders important tags-->
   <!--[if mso]>
